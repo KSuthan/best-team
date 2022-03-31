@@ -1,0 +1,31 @@
+.team {
+    background-color: blue;
+ }
+
+h1{
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    padding: 50px;
+ }
+
+.card{
+    margin: 10px;
+ } 
+
+.list-group-item{
+    font-weight: bolder;
+ }
+
+#mancard{
+    background-color: red
+ }
+
+#engcard {
+    background-color:orange;
+ }
+
+#intcard{
+    background-color: green;
+ }
+
